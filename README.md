@@ -2,7 +2,9 @@
 ### Freelance Project Coordinator & Construction Operations & Business Support  
 
 <p align="center">
-  <img src="YOUR_BANNER_IMAGE_LINK_HERE" width="100%">
+  <p align="center">
+  <img src="./banner.png" width="100%">
+</p>
 </p>
 
 ---
