@@ -1,99 +1,102 @@
 # 👷 REGINA VILLONA  
-### Freelance Project Coordinator & Construction Operations & Business Support  
+### Project Delivery Consultant | Construction Coordination Specialist
 
 <p align="center">
-  <p align="center">
   <img src="./banner.png" width="100%">
 </p>
-</p>
-
----
-
-# 📊 PROJECT CENTER DASHBOARD
-
-| Active Projects | RFIs | Material Approvals | Open Tasks |
-|---|---|---|---|
-| 12 | 38 | 24 | 16 |
-
-| Procurement | Reports Submitted | Site Inspections | Project Completion |
-|---|---|---|---|
-| 18 LPOs | 32 | 14 | 96% |
 
 ---
 
 ## 🚀 PROFESSIONAL OVERVIEW
 
-Civil Engineer with extensive UAE experience in construction, retail fit-out, project delivery, procurement coordination, technical documentation, and multidisciplinary stakeholder management across fast-track projects.
-
-Experienced in:
-- Construction Project Coordination
-- Civil, Retail & Interior Fit-Out
-- Project Planning & Design Review
-- Procurement & Commercial Support
-- RFIs & Technical Submittals
-- Authority & Landlord Coordination
-- QA/QC & Documentation Control
-- Dashboard-Based Project Monitoring
-- Project Close-Out & Handover
+Experienced construction professional specializing in project delivery coordination, technical documentation, procurement operations, authority approvals, stakeholder management, and digital construction systems across retail fit-out and multidisciplinary projects in the UAE.
 
 ---
 
-# 🖥️ DASHBOARD PREVIEW
+# 🌐 DIGITAL CONSTRUCTION PLATFORM
 
-## 📌 Project Management System
-<p align="center">
-  <img src="YOUR_DASHBOARD_IMAGE_LINK" width="95%">
-</p>
+Integrated project coordination platform developed for construction workflow management including:
 
----
+- Document Control
+- Procurement Tracking
+- Material Submittals
+- Project Scheduling
+- QA/QC Monitoring
+- Reports & Analytics
+- Commercial Tracking
+- Authority Coordination
 
-# 📂 PROJECT MODULES
-
-| Module | Scope |
-|---|---|
-| 📁 Document Control | Drawings, RFIs, Submittals, Registers |
-| 🛒 Procurement | LPO, Quotations, Supplier Tracking |
-| 📊 Reports | WPR, Monthly Reports, KPI Monitoring |
-| 🏗️ Project Delivery | Site Coordination & Execution |
-| 🧾 Commercial | Invoices, Claims & Cost Tracking |
-| ✅ QA/QC | MIR, IR, NCR, Snagging |
-| 🦺 HSE | Safety Monitoring & Compliance |
+🔗 [Open Project Center Platform](PUT_YOUR_BASE44_LINK_HERE)
 
 ---
 
-# 🛠️ SOFTWARE & TOOLS
+# 📊 EXECUTIVE OPERATIONS DASHBOARD
 
 <p align="center">
-
-`AutoCAD` `MS Project` `Excel` `Power BI` `Base44`  
-`GitHub` `Google Workspace` `D5 Render` `SketchUp`
-
+  <img src="./dashboard1.png" width="95%">
 </p>
+
+Centralized dashboard for monitoring project progress, procurement activities, RFIs, approvals, reports, inspections, and operational status.
+
+---
+
+# 📁 DOCUMENT CONTROL & TECHNICAL SUBMITTALS
+
+<p align="center">
+  <img src="./dashboard2.png" width="95%">
+</p>
+
+Technical coordination module for drawings, RFIs, submittals, approvals, and document tracking workflows.
+
+---
+
+# 🛒 PROCUREMENT & COMMERCIAL TRACKING
+
+<p align="center">
+  <img src="./dashboard3.png" width="95%">
+</p>
+
+Procurement monitoring system for LPO tracking, quotations, invoices, supplier coordination, and commercial documentation.
+
+---
+
+# 🛠️ CORE EXPERTISE
+
+`Project Delivery`
+`Construction Coordination`
+`Retail Fit-Out`
+`Authority Approvals`
+`Procurement`
+`QA/QC`
+`Technical Documentation`
+`Project Controls`
+`Stakeholder Coordination`
+`Commercial Tracking`
+
+---
+
+# 💻 SOFTWARE & TOOLS
+
+`Base44` `MS Project` `AutoCAD` `Power BI`
+`Excel` `SketchUp` `D5 Render`
+`GitHub` `Google Workspace`
 
 ---
 
 # 📄 CURRICULUM VITAE
 
-📥 [Download My CV](./Regina_Villona_CV.pdf)
+📥 [Download Resume](./Regina_Villona_CV.pdf)
 
 ---
 
-# 🌐 PROJECT LINKS
-
-🔗 Base44 Dashboard  
-🔗 GitHub Repository  
-🔗 LinkedIn Profile  
-
----
-
-# 📞 CONTACT
+# 📞 CONTACT INFORMATION
 
 📧 villonaregina@gmail.com  
-
-📍 UAE | Available for Freelance, Remote & Project-Based Opportunities
+📍 United Arab Emirates  
+💼 Available for Remote, Freelance & Project-Based Opportunities
 
 ---
 
 <p align="center">
-  <b>Project Coordination • Construction Delivery • Technical Operations • Digital Project Systems</b>
+  <b>Construction Coordination • Project Delivery • Digital Construction Operations</b>
 </p>
