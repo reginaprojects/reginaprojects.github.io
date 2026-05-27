@@ -36,7 +36,7 @@ Integrated construction coordination platform developed for managing project wor
 # 📊 EXECUTIVE OPERATIONS DASHBOARD
 
 <p align="center">
-  <img src="./dashboard1.png" width="95%">
+ <img src="./dashboard1" width="95%">
 </p>
 
 Centralized dashboard for monitoring project progress, RFIs, approvals, procurement activities, inspections, operational status, and reporting workflows.
@@ -46,7 +46,7 @@ Centralized dashboard for monitoring project progress, RFIs, approvals, procurem
 # 📁 DOCUMENT CONTROL & TECHNICAL SUBMITTALS
 
 <p align="center">
-  <img src="./documentcontrol.png" width="95%">
+ <img src="./documentcontrol" width="95%">
 </p>
 
 Technical coordination module for drawings, RFIs, submittals, document registers, approvals, and multidisciplinary construction workflows.
@@ -56,7 +56,7 @@ Technical coordination module for drawings, RFIs, submittals, document registers
 # 🛒 PROCUREMENT & COMMERCIAL TRACKING
 
 <p align="center">
-  <img src="./commercial.png" width="95%">
+  <img src="./commercial" width="95%">
 </p>
 
 Commercial tracking system for LPOs, quotations, invoices, supplier coordination, payment monitoring, and procurement documentation.
@@ -66,7 +66,7 @@ Commercial tracking system for LPOs, quotations, invoices, supplier coordination
 # 📅 PROJECT SCHEDULE MONITORING
 
 <p align="center">
-  <img src="./schedule.png" width="95%">
+  <img src="./schedule" width="95%">
 </p>
 
 Project schedule overview for monitoring activities, milestones, timelines, progress tracking, and delivery status.
