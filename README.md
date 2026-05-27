@@ -2,7 +2,7 @@
 ### Project Delivery Consultant | Construction Coordination Specialist
 
 <p align="center">
-  <img src="./banner.png" width="100%">
+  <img src="banner.png" width="100%">
 </p>
 
 ---
@@ -12,6 +12,7 @@
 Experienced construction professional specializing in project delivery coordination, technical documentation, procurement operations, authority approvals, stakeholder management, and digital construction systems across retail fit-out and multidisciplinary projects in the UAE.
 
 Experienced in:
+
 - Project Delivery Coordination
 - Retail & Interior Fit-Out
 - Construction Operations
@@ -36,7 +37,7 @@ Integrated construction coordination platform developed for managing project wor
 # 📊 EXECUTIVE OPERATIONS DASHBOARD
 
 <p align="center">
- <img src="./dashboard1" width="95%">
+  <img src="dashboard1.jpg" width="95%">
 </p>
 
 Centralized dashboard for monitoring project progress, RFIs, approvals, procurement activities, inspections, operational status, and reporting workflows.
@@ -46,7 +47,7 @@ Centralized dashboard for monitoring project progress, RFIs, approvals, procurem
 # 📁 DOCUMENT CONTROL & TECHNICAL SUBMITTALS
 
 <p align="center">
- <img src="./documentcontrol" width="95%">
+  <img src="documentcontrol.jpg" width="95%">
 </p>
 
 Technical coordination module for drawings, RFIs, submittals, document registers, approvals, and multidisciplinary construction workflows.
@@ -56,7 +57,7 @@ Technical coordination module for drawings, RFIs, submittals, document registers
 # 🛒 PROCUREMENT & COMMERCIAL TRACKING
 
 <p align="center">
-  <img src="./commercial" width="95%">
+  <img src="commercial.jpg" width="95%">
 </p>
 
 Commercial tracking system for LPOs, quotations, invoices, supplier coordination, payment monitoring, and procurement documentation.
@@ -66,7 +67,7 @@ Commercial tracking system for LPOs, quotations, invoices, supplier coordination
 # 📅 PROJECT SCHEDULE MONITORING
 
 <p align="center">
-  <img src="./schedule" width="95%">
+  <img src="schedule.jpg" width="95%">
 </p>
 
 Project schedule overview for monitoring activities, milestones, timelines, progress tracking, and delivery status.
@@ -89,15 +90,15 @@ Project schedule overview for monitoring activities, milestones, timelines, prog
 
 # 🛠️ CORE EXPERTISE
 
-`Project Delivery`
-`Construction Coordination`
-`Retail Fit-Out`
-`Authority Approvals`
-`Procurement`
-`QA/QC`
-`Technical Documentation`
-`Project Controls`
-`Stakeholder Coordination`
+`Project Delivery`  
+`Construction Coordination`  
+`Retail Fit-Out`  
+`Authority Approvals`  
+`Procurement`  
+`QA/QC`  
+`Technical Documentation`  
+`Project Controls`  
+`Stakeholder Coordination`  
 `Commercial Tracking`
 
 ---
