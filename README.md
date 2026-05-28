@@ -1,6 +1,4 @@
 
-Paste only this:
-
 :::writing{variant="document" id="73918"}
 # 👷 REGINA VILLONA  
 ### Project Delivery Consultant | Construction Coordination Specialist
@@ -86,4 +84,4 @@ Commercial tracking system for LPOs, quotations, invoices, supplier coordination
 </p>
 :::
 
-Paste it directly in `README.md`, then click **Commit changes**.
+
