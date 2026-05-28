@@ -19,7 +19,11 @@ Construction Project Delivery • Digital Coordination Systems • Technical Ope
 
 ## 🚀 Professional Overview
 
-Experienced construction professional specializing in project delivery coordination, technical documentation, procurement operations, authority approvals, stakeholder management, and digital construction systems across retail fit-out and multidisciplinary projects in the UAE.
+Experienced professional specializing in project delivery coordination, technical documentation, procurement operations, authority approvals, stakeholder management, and digital workflow systems across retail fit-out, airport operational environments, marine engineering support services, and multidisciplinary construction projects in the UAE.
+
+Background includes coordination involvement for international retail brands such as Forever 21, Cotton On, and Typo, supporting design coordination, technical submissions, landlord compliance, stakeholder coordination, and retail fit-out delivery within fast-track commercial environments.
+
+Additional experience includes airport retail delivery coordination within live operational environments, along with marine engineering operational support, warranty coordination, technical services, aftersales operations, and OEM support coordination for Rolls-Royce MTU marine systems.
 
 ---
 
@@ -84,7 +88,8 @@ Focused on delivering organized construction coordination systems through techni
 
 ## 🏗️ Project Experience
 
-`Construction Project Management``Retail Fit-Out` `Commercial Offices` `F&B Projects` `Interior Renovation` `Authority Compliance` `Construction Coordination` `Airport Projects` `Airport Facility Management` `Marine Aftersales Operational Support` `Warranty Management``Facility & Maintenance Operations Support`
+`Construction Project Management``Retail Fit-Out` `Commercial Offices` `F&B Projects` `Interior Renovation` `Authority Compliance` `Construction Coordination` `Airport Projects` `Airport Facility Management` `Marine Aftersales Operational Support` `Warranty Management``Facility & Maintenance Operations Support` `International Retail Brand Coordination` `Design Interface Coordination`
+
 
 ---
 
