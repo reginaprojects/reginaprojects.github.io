@@ -80,6 +80,16 @@ Commercial tracking system for LPOs, quotations, invoices, supplier coordination
 
 ---
 
+## 📅 Project Schedule Monitoring
+
+<p align="center">
+  <img src="schedule.jpg" width="68%">
+</p>
+
+Project schedule overview for monitoring activities, milestones, timelines, progress tracking, and delivery status.
+
+---
+
 ## 🎯 Consultancy Approach
 
 Focused on delivering organized construction coordination systems through technical oversight, stakeholder management, procurement coordination, workflow monitoring, and digital project tracking.
