@@ -2,333 +2,372 @@
 <html lang="en">
 
 <head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Project Center | Regina Villona</title>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-  <style>
+<title>Regina Villona | Project Delivery Consultant</title>
 
-    body{
-      margin:0;
-      font-family:Arial, sans-serif;
-      background:#081226;
-      color:white;
-      line-height:1.7;
-    }
+<style>
 
-    .container{
-      width:90%;
-      max-width:1200px;
-      margin:auto;
-    }
+*{
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
+}
 
-    .hero{
-      text-align:center;
-      padding:50px 20px 30px;
-    }
+body{
+    font-family:Arial, Helvetica, sans-serif;
+    background:#020b26;
+    color:white;
+    line-height:1.7;
+}
 
-    .profile{
-      width:150px;
-      height:150px;
-      border-radius:50%;
-      object-fit:cover;
-      border:4px solid #1d4ed8;
-      box-shadow:0 0 20px rgba(0,0,0,0.4);
-    }
+.container{
+    width:90%;
+    max-width:1200px;
+    margin:auto;
+}
 
-    h1{
-      font-size:52px;
-      margin-top:25px;
-      margin-bottom:10px;
-    }
+.hero{
+    padding:60px 0 30px;
+    text-align:center;
+}
 
-    .subtitle{
-      font-size:28px;
-      font-weight:bold;
-      color:#ffffff;
-    }
+.hero img.profile{
+    width:150px;
+    height:150px;
+    border-radius:50%;
+    object-fit:cover;
+    border:4px solid #fbbf24;
+    margin-bottom:20px;
+}
 
-    .tagline{
-      color:#cbd5e1;
-      font-size:18px;
-      margin-top:15px;
-    }
+.hero h1{
+    font-size:52px;
+    margin-bottom:10px;
+}
 
-    .buttons{
-      margin-top:30px;
-    }
+.hero h2{
+    font-size:28px;
+    color:#fbbf24;
+    margin-bottom:18px;
+}
 
-    .btn{
-      display:inline-block;
-      padding:14px 28px;
-      margin:10px;
-      border-radius:10px;
-      text-decoration:none;
-      font-weight:bold;
-      transition:0.3s;
-    }
+.hero p{
+    font-size:20px;
+    color:#d1d5db;
+}
 
-    .btn-primary{
-      background:#2563eb;
-      color:white;
-    }
+.buttons{
+    margin-top:35px;
+}
 
-    .btn-secondary{
-      background:#f59e0b;
-      color:black;
-    }
+.buttons a{
+    display:inline-block;
+    padding:15px 32px;
+    margin:10px;
+    border-radius:12px;
+    text-decoration:none;
+    font-weight:bold;
+    transition:0.3s;
+}
 
-    .btn:hover{
-      transform:translateY(-2px);
-    }
+.btn1{
+    background:#2563eb;
+    color:white;
+}
 
-    .banner{
-      width:100%;
-      border-radius:20px;
-      margin-top:40px;
-      box-shadow:0 10px 25px rgba(0,0,0,0.5);
-    }
+.btn2{
+    background:#fbbf24;
+    color:black;
+}
 
-    section{
-      padding:70px 0;
-    }
+.buttons a:hover{
+    transform:translateY(-3px);
+}
 
-    .section-title{
-      font-size:36px;
-      margin-bottom:25px;
-      color:#fbbf24;
-      text-align:center;
-    }
+.banner{
+    width:100%;
+    border-radius:22px;
+    margin-top:25px;
+    box-shadow:0 10px 30px rgba(0,0,0,0.5);
+}
 
-    .card{
-      background:#111c35;
-      padding:35px;
-      border-radius:20px;
-      box-shadow:0 8px 20px rgba(0,0,0,0.35);
-    }
+section{
+    padding:35px 0;
+}
 
-    .card p{
-      color:#dbe4f0;
-      font-size:17px;
-    }
+.section-title{
+    font-size:38px;
+    color:#fbbf24;
+    margin-bottom:18px;
+    text-align:left;
+}
 
-    .screenshot{
-      width:100%;
-      border-radius:18px;
-      margin-top:25px;
-      box-shadow:0 10px 25px rgba(0,0,0,0.45);
-    }
+.card{
+    background:#0d1b47;
+    padding:35px;
+    border-radius:22px;
+}
 
-    .expertise{
-      display:flex;
-      flex-wrap:wrap;
-      justify-content:center;
-      gap:12px;
-      margin-top:25px;
-    }
+.card p{
+    font-size:20px;
+    color:#e5e7eb;
+    margin-bottom:22px;
+}
 
-    .expertise span{
-      background:#1e293b;
-      padding:12px 18px;
-      border-radius:30px;
-      font-size:15px;
-      color:#e2e8f0;
-    }
+.screenshot{
+    width:85%;
+    display:block;
+    margin:18px auto 0;
+    border-radius:18px;
+    box-shadow:0 10px 25px rgba(0,0,0,0.45);
+}
 
-    .contact{
-      text-align:center;
-    }
+.skills{
+    display:flex;
+    flex-wrap:wrap;
+    gap:12px;
+    margin-top:20px;
+}
 
-    .contact p{
-      font-size:18px;
-      color:#dbe4f0;
-    }
+.skill{
+    background:#14224f;
+    color:#fbbf24;
+    padding:12px 18px;
+    border-radius:10px;
+    font-size:15px;
+}
 
-    footer{
-      text-align:center;
-      padding:30px;
-      color:#94a3b8;
-      border-top:1px solid rgba(255,255,255,0.08);
-      margin-top:60px;
-    }
+.contact a{
+    color:#fbbf24;
+    text-decoration:none;
+}
 
-  </style>
+footer{
+    text-align:center;
+    padding:30px 0;
+    color:#9ca3af;
+    font-size:14px;
+}
+
+@media(max-width:768px){
+
+.hero h1{
+    font-size:36px;
+}
+
+.hero h2{
+    font-size:22px;
+}
+
+.section-title{
+    font-size:30px;
+}
+
+.card p{
+    font-size:17px;
+}
+
+.screenshot{
+    width:100%;
+}
+
+}
+
+</style>
 </head>
 
 <body>
 
-  <div class="container">
+<div class="container">
 
-    <section class="hero">
+<section class="hero">
 
-      <img src="Profile.jpg" class="profile">
+<img src="Profile.jpg" class="profile">
 
-      <h1>Regina Villona</h1>
+<h1>REGINA VILLONA</h1>
 
-      <div class="subtitle">
-        Project Delivery Consultant | Construction Coordination Specialist
-      </div>
+<h2>Project Delivery Consultant | Construction Coordination Specialist</h2>
 
-      <div class="tagline">
-        Construction Delivery • Digital Coordination Systems • Technical Operations
-      </div>
+<p>
+Construction Project Delivery • Digital Coordination Systems • Technical Operations
+</p>
 
-      <div class="buttons">
+<div class="buttons">
 
-        <a href="PUT_YOUR_BASE44_LINK_HERE" class="btn btn-primary">
-          Open Project Center Platform
-        </a>
+<a href="PUT_YOUR_BASE44_LINK_HERE" class="btn1" target="_blank">
+Open Project Center Platform
+</a>
 
-        <a href="#" class="btn btn-secondary">
-          Watch Platform Demo
-        </a>
+<a href="PUT_YOUR_VIDEO_LINK_HERE" class="btn2" target="_blank">
+Watch Platform Demo
+</a>
 
-      </div>
+</div>
 
-      <img src="banner.png" class="banner">
+<img src="banner.png" class="banner">
 
-    </section>
+</section>
 
-    <section>
+<section>
 
-      <h2 class="section-title">
-        Professional Overview
-      </h2>
+<h2 class="section-title">Professional Overview</h2>
 
-      <div class="card">
+<div class="card">
 
-        <p>
-          Experienced UAE-based construction professional specializing in project delivery coordination, technical documentation, procurement operations, authority approvals, stakeholder coordination, and digital construction workflow systems across retail fit-out and multidisciplinary projects.
-        </p>
+<p>
+Experienced UAE-based construction professional specializing in project delivery coordination, technical documentation, procurement operations, authority approvals, stakeholder coordination, and digital construction workflow systems across retail fit-out and multidisciplinary projects.
+</p>
 
-        <p>
-          Extensive coordination involvement across retail, airport operational environments, commercial interiors, procurement support, marine engineering services, and technical delivery workflows. Experience includes support coordination for international retail brands such as Forever 21, Cotton On, and Typo.
-        </p>
+<p>
+Extensive coordination involvement across retail, airport operational environments, commercial interiors, procurement support, marine engineering services, and technical delivery workflows. Experience includes support coordination for international retail brands such as Forever 21, Cotton On, and Typo.
+</p>
 
-        <p>
-          Previous operational experience also includes Rolls-Royce MTU Marine warranty coordination, maintenance support services, logistics coordination, technical documentation, and aftersales operational support for marine engines, spare parts, and service operations.
-        </p>
+<p>
+Previous operational experience also includes Rolls-Royce MTU Marine warranty coordination, maintenance support services, logistics coordination, technical documentation, and aftersales operational support for marine engines, spare parts, and service operations.
+</p>
 
-      </div>
+</div>
 
-    </section>
+</section>
 
-    <section>
+<section>
 
-      <h2 class="section-title">
-        Digital Construction Platform
-      </h2>
+<h2 class="section-title">Digital Construction Platform</h2>
 
-      <div class="card">
+<div class="card">
 
-        <p>
-          Project Center is a digital construction coordination and operational monitoring platform developed for project delivery workflows, procurement tracking, document control, approvals, technical submissions, scheduling, reporting, QA/QC monitoring, and multidisciplinary construction coordination.
-        </p>
+<p>
+Digital construction coordination and operational monitoring platform developed for project delivery workflows, procurement control, approvals, technical submissions, scheduling, reporting, QA/QC monitoring, and multidisciplinary construction coordination.
+</p>
 
-      </div>
+</div>
 
-    </section>
+</section>
 
-    <section>
+<section>
 
-      <h2 class="section-title">
-        Executive Operations Dashboard
-      </h2>
+<h2 class="section-title">Executive Operations Dashboard</h2>
 
-      <img src="dashboard1.jpg" class="screenshot">
+<img src="dashboard1.jpg" class="screenshot">
 
-    </section>
+</section>
 
-    <section>
+<section>
 
-      <h2 class="section-title">
-        Document Control & Technical Submittals
-      </h2>
+<h2 class="section-title">Document Control & Technical Submittals</h2>
 
-      <img src="documentcontrol.jpg" class="screenshot">
+<img src="documentcontrol.jpg" class="screenshot">
 
-    </section>
+</section>
 
-    <section>
+<section>
 
-      <h2 class="section-title">
-        Procurement & Commercial Tracking
-      </h2>
+<h2 class="section-title">Procurement & Commercial Tracking</h2>
 
-      <img src="commercial.jpg" class="screenshot">
+<img src="commercial.jpg" class="screenshot">
 
-    </section>
+</section>
 
-    <section>
+<section>
 
-      <h2 class="section-title">
-        Core Expertise
-      </h2>
+<h2 class="section-title">Project Schedule Monitoring</h2>
 
-      <div class="expertise">
+<img src="schedule.jpg" class="screenshot">
 
-        <span>Project Delivery</span>
-        <span>Construction Coordination</span>
-        <span>Retail Fit-Out</span>
-        <span>Airport Coordination</span>
-        <span>Marine Operations Support</span>
-        <span>Procurement Coordination</span>
-        <span>Commercial Tracking</span>
-        <span>Authority Approvals</span>
-        <span>QA/QC Monitoring</span>
-        <span>Technical Documentation</span>
-        <span>Digital Construction Systems</span>
-        <span>Stakeholder Coordination</span>
+</section>
 
-      </div>
+<section>
 
-    </section>
+<h2 class="section-title">Core Expertise</h2>
 
-    <section>
+<div class="skills">
 
-      <h2 class="section-title">
-        Industry Experience
-      </h2>
+<div class="skill">Project Delivery</div>
+<div class="skill">Construction Coordination</div>
+<div class="skill">Retail Fit-Out</div>
+<div class="skill">Authority Approvals</div>
+<div class="skill">Procurement</div>
+<div class="skill">Commercial Tracking</div>
+<div class="skill">Document Control</div>
+<div class="skill">QA/QC</div>
+<div class="skill">Stakeholder Coordination</div>
+<div class="skill">Technical Documentation</div>
+<div class="skill">Airport Coordination</div>
+<div class="skill">Marine Operations Support</div>
 
-      <div class="card">
+</div>
 
-        <p>✈️ Dubai Airports – Retail Project Delivery Coordination</p>
+</section>
 
-        <p>🛳️ Rolls-Royce MTU Marine – Warranty & Service Operations Support</p>
+<section>
 
-        <p>🏢 Retail Fit-Out & Commercial Interior Projects Across UAE</p>
+<h2 class="section-title">Software & Tools</h2>
 
-        <p>🛍️ International Brand Coordination: Forever 21, Cotton On, Typo</p>
+<div class="skills">
 
-      </div>
+<div class="skill">Base44</div>
+<div class="skill">MS Project</div>
+<div class="skill">AutoCAD</div>
+<div class="skill">Power BI</div>
+<div class="skill">Excel</div>
+<div class="skill">SketchUp</div>
+<div class="skill">D5 Render</div>
+<div class="skill">GitHub</div>
+<div class="skill">Google Workspace</div>
+<div class="skill">Notion</div>
+<div class="skill">ClickUp</div>
+<div class="skill">Asana</div>
+<div class="skill">Trello</div>
 
-    </section>
+</div>
 
-    <section class="contact">
+</section>
 
-      <h2 class="section-title">
-        Contact Information
-      </h2>
+<section>
 
-      <div class="card">
+<h2 class="section-title">Resume & Links</h2>
 
-        <p>📧 villonaregina@gmail.com</p>
+<div class="skills">
 
-        <p>🌐 https://reginaprojects.github.io</p>
+<a href="Regina_Villona_CV.pdf" class="btn1" target="_blank">
+Download Resume
+</a>
 
-        <p>📍 Dubai, United Arab Emirates</p>
+<a href="PUT_YOUR_LINKEDIN_LINK_HERE" class="btn2" target="_blank">
+LinkedIn Profile
+</a>
 
-        <p>💼 Available for Remote, Freelance & Project-Based Opportunities</p>
+</div>
 
-      </div>
+</section>
 
-    </section>
+<section>
 
-  </div>
+<h2 class="section-title">Contact Information</h2>
 
-  <footer>
-    Project Center • Construction Coordination • Digital Operations
-  </footer>
+<div class="card contact">
+
+<p>📧 villonaregina@gmail.com</p>
+
+<p>📍 Dubai, United Arab Emirates</p>
+
+<p>
+Available for Remote, Freelance & Project-Based Opportunities
+</p>
+
+</div>
+
+</section>
+
+<footer>
+
+© 2026 Regina Villona | Project Center
+
+</footer>
+
+</div>
 
 </body>
 </html>
