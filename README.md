@@ -1,17 +1,20 @@
 <h1 align="center">👷 REGINA VILLONA</h1>
 
-<h3 align="center">Project Delivery Consultant | Construction Coordination Specialist</h3>
-
-<p align="center">Construction Project Delivery • Digital Coordination Systems • Technical Operations</p>
+<h3 align="center">
+Project Delivery Consultant | Construction Coordination Specialist
+</h3>
 
 <p align="center">
-  <img src="Profile.jpeg" width="135">
+  <img src="Profile.jpeg" width="110">
+</p>
+
+<p align="center">
+Construction Project Delivery • Digital Coordination Systems • Technical Operations
 </p>
 
 <p align="center">
   <img src="banner.png" width="100%">
 </p>
-
 ---
 
 ## 🚀 Professional Overview
