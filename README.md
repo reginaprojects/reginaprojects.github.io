@@ -12,38 +12,11 @@
 
 Experienced construction professional specializing in project delivery coordination, technical documentation, procurement operations, authority approvals, stakeholder management, and digital construction systems across retail fit-out and multidisciplinary projects in the UAE.
 
-Focused on:
-- Construction Coordination
-- Project Delivery
-- Procurement Operations
-- Technical Documentation
-- QA/QC Monitoring
-- Authority Approvals
-- Digital Construction Workflows
-- Project Scheduling & Reporting
-
 ---
 
 # 🌐 DIGITAL CONSTRUCTION PLATFORM
 
-Integrated construction coordination platform developed for managing project workflows including:
-
-- Document Control
-- Procurement Tracking
-- Material Submittals
-- Project Scheduling
-- QA/QC Monitoring
-- Reports & Analytics
-- Commercial Tracking
-- Authority Coordination
-
 🔗 [Open Project Center Platform](PUT_YOUR_BASE44_LINK_HERE)
-
----
-
-# 🎥 PLATFORM VIDEO PRESENTATION
-
-Professional walkthrough presentation demonstrating the Project Center construction coordination platform including dashboard navigation, procurement workflows, technical documentation, scheduling, reporting systems, and operational management processes.
 
 ▶️ [Watch Platform Demonstration](PUT_YOUR_VIDEO_LINK_HERE)
 
@@ -81,23 +54,23 @@ Commercial tracking system for LPOs, quotations, invoices, supplier coordination
 
 # 🛠️ CORE EXPERTISE
 
-`Project Delivery`  
-`Construction Coordination`  
-`Retail Fit-Out`  
-`Authority Approvals`  
-`Procurement`  
-`QA/QC`  
-`Technical Documentation`  
-`Project Controls`  
-`Stakeholder Coordination`  
+`Project Delivery`
+`Construction Coordination`
+`Retail Fit-Out`
+`Authority Approvals`
+`Procurement`
+`QA/QC`
+`Technical Documentation`
+`Project Controls`
+`Stakeholder Coordination`
 `Commercial Tracking`
 
 ---
 
 # 💻 SOFTWARE & TOOLS
 
-`Base44` `MS Project` `AutoCAD` `Power BI`  
-`Excel` `SketchUp` `D5 Render`  
+`Base44` `MS Project` `AutoCAD` `Power BI`
+`Excel` `SketchUp` `D5 Render`
 `GitHub` `Google Workspace`
 
 ---
@@ -110,9 +83,9 @@ Commercial tracking system for LPOs, quotations, invoices, supplier coordination
 
 # 📞 CONTACT INFORMATION
 
-📧 villonaregina@gmail.com  
+📧 villonaregina@gmail.com
 
-📍 United Arab Emirates  
+📍 United Arab Emirates
 
 💼 Available for Remote, Freelance & Project-Based Opportunities
 
