@@ -95,7 +95,9 @@ Focused on delivering organized construction coordination systems through techni
 
 ## 🛠️ Core Expertise
 
-`Project Delivery` `Construction Coordination` `Authority Approvals` `Procurement` `QA/QC` `Technical Documentation` `Project Controls` `Commercial Tracking`
+## 🛠️ Core Expertise
+
+`Project Delivery` `Construction Coordination` `Design Coordination` `Retail Fit-Out` `Airport Operational Coordination` `Marine Engineering Support` `Authority Approvals` `Stakeholder Interface Management` `Procurement & Commercial Coordination` `QA/QC Monitoring` `Technical Documentation` `Project Controls` `Operational Workflow Systems` `Landlord Compliance Coordination` `Technical Submittals` `Multidisciplinary Coordination` `Aftersales & Warranty Coordination` `Digital Construction Operations`
 
 ---
 
