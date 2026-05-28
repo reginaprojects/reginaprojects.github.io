@@ -1,45 +1,334 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
 
 <head>
-    <title>Gina Villona Portfolio</title>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Project Center | Regina Villona</title>
+
+  <style>
+
+    body{
+      margin:0;
+      font-family:Arial, sans-serif;
+      background:#081226;
+      color:white;
+      line-height:1.7;
+    }
+
+    .container{
+      width:90%;
+      max-width:1200px;
+      margin:auto;
+    }
+
+    .hero{
+      text-align:center;
+      padding:50px 20px 30px;
+    }
+
+    .profile{
+      width:150px;
+      height:150px;
+      border-radius:50%;
+      object-fit:cover;
+      border:4px solid #1d4ed8;
+      box-shadow:0 0 20px rgba(0,0,0,0.4);
+    }
+
+    h1{
+      font-size:52px;
+      margin-top:25px;
+      margin-bottom:10px;
+    }
+
+    .subtitle{
+      font-size:28px;
+      font-weight:bold;
+      color:#ffffff;
+    }
+
+    .tagline{
+      color:#cbd5e1;
+      font-size:18px;
+      margin-top:15px;
+    }
+
+    .buttons{
+      margin-top:30px;
+    }
+
+    .btn{
+      display:inline-block;
+      padding:14px 28px;
+      margin:10px;
+      border-radius:10px;
+      text-decoration:none;
+      font-weight:bold;
+      transition:0.3s;
+    }
+
+    .btn-primary{
+      background:#2563eb;
+      color:white;
+    }
+
+    .btn-secondary{
+      background:#f59e0b;
+      color:black;
+    }
+
+    .btn:hover{
+      transform:translateY(-2px);
+    }
+
+    .banner{
+      width:100%;
+      border-radius:20px;
+      margin-top:40px;
+      box-shadow:0 10px 25px rgba(0,0,0,0.5);
+    }
+
+    section{
+      padding:70px 0;
+    }
+
+    .section-title{
+      font-size:36px;
+      margin-bottom:25px;
+      color:#fbbf24;
+      text-align:center;
+    }
+
+    .card{
+      background:#111c35;
+      padding:35px;
+      border-radius:20px;
+      box-shadow:0 8px 20px rgba(0,0,0,0.35);
+    }
+
+    .card p{
+      color:#dbe4f0;
+      font-size:17px;
+    }
+
+    .screenshot{
+      width:100%;
+      border-radius:18px;
+      margin-top:25px;
+      box-shadow:0 10px 25px rgba(0,0,0,0.45);
+    }
+
+    .expertise{
+      display:flex;
+      flex-wrap:wrap;
+      justify-content:center;
+      gap:12px;
+      margin-top:25px;
+    }
+
+    .expertise span{
+      background:#1e293b;
+      padding:12px 18px;
+      border-radius:30px;
+      font-size:15px;
+      color:#e2e8f0;
+    }
+
+    .contact{
+      text-align:center;
+    }
+
+    .contact p{
+      font-size:18px;
+      color:#dbe4f0;
+    }
+
+    footer{
+      text-align:center;
+      padding:30px;
+      color:#94a3b8;
+      border-top:1px solid rgba(255,255,255,0.08);
+      margin-top:60px;
+    }
+
+  </style>
 </head>
 
-<body style="
-background:#0f172a;
-color:white;
-font-family:Arial;
-text-align:center;
-padding:40px;
-">
+<body>
 
-   <img src="./Profile.jpeg" style="width:180px; height:180px; border-radius:100px; object-fit:cover;">
+  <div class="container">
 
-    <h1>Gina Villona</h1>
+    <section class="hero">
 
-    <h3>Projects Delivery Engineer</h3>
+      <img src="Profile.jpg" class="profile">
 
-    <p>
-        UAE Experience | Project Management | Procurement |
-        Documentation Systems | Projects Coordinator | Business Support
-    </p>
+      <h1>Regina Villona</h1>
 
-    <br>
+      <div class="subtitle">
+        Project Delivery Consultant | Construction Coordination Specialist
+      </div>
 
-    <a href="#">
-        <button style="
-        padding:12px 24px;
-        background:#2563eb;
-        color:white;
-        border:none;
-        border-radius:8px;
-        font-size:16px;
-        cursor:pointer;
-        ">
-        Open Base44 Dashboard
-        </button>
-    </a>
+      <div class="tagline">
+        Construction Delivery • Digital Coordination Systems • Technical Operations
+      </div>
+
+      <div class="buttons">
+
+        <a href="PUT_YOUR_BASE44_LINK_HERE" class="btn btn-primary">
+          Open Project Center Platform
+        </a>
+
+        <a href="#" class="btn btn-secondary">
+          Watch Platform Demo
+        </a>
+
+      </div>
+
+      <img src="banner.png" class="banner">
+
+    </section>
+
+    <section>
+
+      <h2 class="section-title">
+        Professional Overview
+      </h2>
+
+      <div class="card">
+
+        <p>
+          Experienced UAE-based construction professional specializing in project delivery coordination, technical documentation, procurement operations, authority approvals, stakeholder coordination, and digital construction workflow systems across retail fit-out and multidisciplinary projects.
+        </p>
+
+        <p>
+          Extensive coordination involvement across retail, airport operational environments, commercial interiors, procurement support, marine engineering services, and technical delivery workflows. Experience includes support coordination for international retail brands such as Forever 21, Cotton On, and Typo.
+        </p>
+
+        <p>
+          Previous operational experience also includes Rolls-Royce MTU Marine warranty coordination, maintenance support services, logistics coordination, technical documentation, and aftersales operational support for marine engines, spare parts, and service operations.
+        </p>
+
+      </div>
+
+    </section>
+
+    <section>
+
+      <h2 class="section-title">
+        Digital Construction Platform
+      </h2>
+
+      <div class="card">
+
+        <p>
+          Project Center is a digital construction coordination and operational monitoring platform developed for project delivery workflows, procurement tracking, document control, approvals, technical submissions, scheduling, reporting, QA/QC monitoring, and multidisciplinary construction coordination.
+        </p>
+
+      </div>
+
+    </section>
+
+    <section>
+
+      <h2 class="section-title">
+        Executive Operations Dashboard
+      </h2>
+
+      <img src="dashboard1.jpg" class="screenshot">
+
+    </section>
+
+    <section>
+
+      <h2 class="section-title">
+        Document Control & Technical Submittals
+      </h2>
+
+      <img src="documentcontrol.jpg" class="screenshot">
+
+    </section>
+
+    <section>
+
+      <h2 class="section-title">
+        Procurement & Commercial Tracking
+      </h2>
+
+      <img src="commercial.jpg" class="screenshot">
+
+    </section>
+
+    <section>
+
+      <h2 class="section-title">
+        Core Expertise
+      </h2>
+
+      <div class="expertise">
+
+        <span>Project Delivery</span>
+        <span>Construction Coordination</span>
+        <span>Retail Fit-Out</span>
+        <span>Airport Coordination</span>
+        <span>Marine Operations Support</span>
+        <span>Procurement Coordination</span>
+        <span>Commercial Tracking</span>
+        <span>Authority Approvals</span>
+        <span>QA/QC Monitoring</span>
+        <span>Technical Documentation</span>
+        <span>Digital Construction Systems</span>
+        <span>Stakeholder Coordination</span>
+
+      </div>
+
+    </section>
+
+    <section>
+
+      <h2 class="section-title">
+        Industry Experience
+      </h2>
+
+      <div class="card">
+
+        <p>✈️ Dubai Airports – Retail Project Delivery Coordination</p>
+
+        <p>🛳️ Rolls-Royce MTU Marine – Warranty & Service Operations Support</p>
+
+        <p>🏢 Retail Fit-Out & Commercial Interior Projects Across UAE</p>
+
+        <p>🛍️ International Brand Coordination: Forever 21, Cotton On, Typo</p>
+
+      </div>
+
+    </section>
+
+    <section class="contact">
+
+      <h2 class="section-title">
+        Contact Information
+      </h2>
+
+      <div class="card">
+
+        <p>📧 villonaregina@gmail.com</p>
+
+        <p>🌐 https://reginaprojects.github.io</p>
+
+        <p>📍 Dubai, United Arab Emirates</p>
+
+        <p>💼 Available for Remote, Freelance & Project-Based Opportunities</p>
+
+      </div>
+
+    </section>
+
+  </div>
+
+  <footer>
+    Project Center • Construction Coordination • Digital Operations
+  </footer>
 
 </body>
-
 </html>
