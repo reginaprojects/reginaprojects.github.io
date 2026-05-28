@@ -1,199 +1,184 @@
+```html
 <!DOCTYPE html>
 <html lang="en">
-
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-
 <title>Regina Villona | Project Delivery Consultant</title>
 
 <style>
-
 *{
-    margin:0;
-    padding:0;
-    box-sizing:border-box;
+  margin:0;
+  padding:0;
+  box-sizing:border-box;
 }
 
 body{
-    font-family:Arial, Helvetica, sans-serif;
-    background:#020b26;
-    color:white;
-    line-height:1.7;
+  font-family:Arial, Helvetica, sans-serif;
+  background:#020b26;
+  color:white;
+  line-height:1.6;
 }
 
 .container{
-    width:90%;
-    max-width:1200px;
-    margin:auto;
+  width:92%;
+  max-width:1250px;
+  margin:auto;
 }
 
 .hero{
-    padding:45px 0 25px;
-    text-align:center;
+  display:grid;
+  grid-template-columns: 1fr 1.5fr;
+  gap:35px;
+  align-items:center;
+  padding:35px 0 25px;
 }
 
-.hero img.profile{
-    width:140px;
-    height:140px;
-    border-radius:50%;
-    object-fit:cover;
-    border:4px solid #fbbf24;
-    margin-bottom:18px;
+.hero-left{
+  text-align:left;
+}
+
+.profile{
+  width:110px;
+  height:110px;
+  border-radius:50%;
+  object-fit:cover;
+  border:3px solid #fbbf24;
+  margin-bottom:18px;
 }
 
 .hero h1{
-    font-size:44px;
-    margin-bottom:8px;
-    letter-spacing:1px;
+  font-size:36px;
+  margin-bottom:8px;
+  letter-spacing:1px;
 }
 
 .hero h2{
-    font-size:22px;
-    color:#fbbf24;
-    margin-bottom:14px;
+  font-size:19px;
+  color:#fbbf24;
+  margin-bottom:12px;
 }
 
 .hero p{
-    font-size:18px;
-    color:#d1d5db;
-}
-
-.buttons{
-    margin-top:28px;
+  font-size:16px;
+  color:#d1d5db;
+  margin-bottom:18px;
 }
 
 .buttons a{
-    display:inline-block;
-    padding:14px 28px;
-    margin:8px;
-    border-radius:12px;
-    text-decoration:none;
-    font-weight:bold;
-    transition:0.3s;
+  display:inline-block;
+  padding:11px 20px;
+  margin:6px 6px 6px 0;
+  border-radius:9px;
+  text-decoration:none;
+  font-weight:bold;
+  font-size:14px;
 }
 
 .btn1{
-    background:#2563eb;
-    color:white;
+  background:#2563eb;
+  color:white;
 }
 
 .btn2{
-    background:#fbbf24;
-    color:black;
-}
-
-.buttons a:hover{
-    transform:translateY(-3px);
+  background:#fbbf24;
+  color:black;
 }
 
 .banner{
-    width:100%;
-    border-radius:22px;
-    margin-top:25px;
-    box-shadow:0 10px 30px rgba(0,0,0,0.5);
+  width:100%;
+  border-radius:18px;
+  box-shadow:0 10px 25px rgba(0,0,0,0.5);
 }
 
 section{
-    padding:35px 0;
+  padding:22px 0;
 }
 
 .section-title{
-    font-size:28px;
-    color:#fbbf24;
-    margin-bottom:12px;
-    text-align:left;
-    font-weight:700;
-    letter-spacing:0.5px;
+  font-size:24px;
+  color:#fbbf24;
+  margin-bottom:12px;
+  text-align:left;
 }
 
 .card{
-    background:#0d1b47;
-    padding:30px;
-    border-radius:22px;
-    box-shadow:0 8px 20px rgba(0,0,0,0.25);
+  background:#0d1b47;
+  padding:24px;
+  border-radius:18px;
+  box-shadow:0 8px 20px rgba(0,0,0,0.25);
 }
 
 .card p{
-    font-size:17px;
-    color:#e5e7eb;
-    margin-bottom:18px;
+  font-size:15.5px;
+  color:#e5e7eb;
+  margin-bottom:14px;
+}
+
+.grid-2{
+  display:grid;
+  grid-template-columns:1fr 1fr;
+  gap:28px;
+}
+
+.showcase-card{
+  background:#0d1b47;
+  padding:18px;
+  border-radius:18px;
+}
+
+.showcase-card h3{
+  color:#fbbf24;
+  font-size:20px;
+  margin-bottom:12px;
 }
 
 .screenshot{
-    width:78%;
-    display:block;
-    margin:18px auto 0;
-    border-radius:18px;
-    box-shadow:0 10px 25px rgba(0,0,0,0.45);
-}
-
-.note{
-    color:#cbd5e1;
-    font-size:15px;
-    margin-top:12px;
+  width:100%;
+  border-radius:14px;
+  box-shadow:0 10px 22px rgba(0,0,0,0.45);
 }
 
 .skills{
-    display:flex;
-    flex-wrap:wrap;
-    gap:12px;
-    margin-top:18px;
+  display:flex;
+  flex-wrap:wrap;
+  gap:10px;
+  margin-top:10px;
 }
 
 .skill{
-    background:#14224f;
-    color:#fbbf24;
-    padding:10px 16px;
-    border-radius:10px;
-    font-size:14px;
-}
-
-.contact a{
-    color:#fbbf24;
-    text-decoration:none;
+  background:#14224f;
+  color:#fbbf24;
+  padding:9px 14px;
+  border-radius:9px;
+  font-size:13.5px;
 }
 
 footer{
+  text-align:center;
+  padding:25px 0;
+  color:#9ca3af;
+  font-size:13px;
+}
+
+@media(max-width:900px){
+  .hero,
+  .grid-2{
+    grid-template-columns:1fr;
+  }
+
+  .hero-left{
     text-align:center;
-    padding:30px 0;
-    color:#9ca3af;
-    font-size:14px;
+  }
+
+  .hero h1{
+    font-size:32px;
+  }
+
+  .section-title{
+    font-size:22px;
+  }
 }
-
-@media(max-width:768px){
-
-.hero h1{
-    font-size:34px;
-}
-
-.hero h2{
-    font-size:20px;
-}
-
-.hero p{
-    font-size:16px;
-}
-
-.section-title{
-    font-size:25px;
-}
-
-.card p{
-    font-size:16px;
-}
-
-.screenshot{
-    width:100%;
-}
-
-.buttons a{
-    width:100%;
-    max-width:320px;
-}
-
-}
-
 </style>
 </head>
 
@@ -202,233 +187,154 @@ footer{
 <div class="container">
 
 <section class="hero">
+  <div class="hero-left">
+    <img src="Profile.jpg" class="profile">
 
-<img src="Profile.jpg" class="profile">
+    <h1>REGINA VILLONA</h1>
 
-<h1>REGINA VILLONA</h1>
+    <h2>Project Delivery Consultant | Construction Coordination Specialist</h2>
 
-<h2>Project Delivery Consultant | Construction Coordination Specialist</h2>
+    <p>Construction Delivery • Digital Coordination Systems • Technical Operations</p>
 
-<p>
-Construction Delivery • Digital Coordination Systems • Technical Operations
-</p>
+    <div class="buttons">
+      <a href="PUT_YOUR_BASE44_LINK_HERE" class="btn1" target="_blank">Open Project Center Platform</a>
+      <a href="PUT_YOUR_VIDEO_LINK_HERE" class="btn2" target="_blank">Watch Platform Demo</a>
+    </div>
+  </div>
 
-<div class="buttons">
-
-<a href="PUT_YOUR_BASE44_LINK_HERE" class="btn1" target="_blank">
-Open Project Center Platform
-</a>
-
-<a href="PUT_YOUR_VIDEO_LINK_HERE" class="btn2" target="_blank">
-Watch Platform Demo
-</a>
-
-</div>
-
-<img src="banner.png" class="banner">
-
+  <div>
+    <img src="banner.png" class="banner">
+  </div>
 </section>
 
 <section>
+  <h2 class="section-title">Professional Overview</h2>
 
-<h2 class="section-title">Professional Overview</h2>
+  <div class="card">
+    <p>
+      Experienced UAE-based construction professional specializing in project delivery coordination, technical documentation, procurement operations, authority approvals, stakeholder coordination, and digital construction workflow systems across retail fit-out and multidisciplinary projects.
+    </p>
 
-<div class="card">
+    <p>
+      Coordination involvement across retail, airport operational environments, commercial interiors, procurement support, marine engineering services, and technical delivery workflows. Experience includes support coordination for international retail brands such as Forever 21, Cotton On, and Typo.
+    </p>
 
-<p>
-Experienced UAE-based construction professional specializing in project delivery coordination, technical documentation, procurement operations, authority approvals, stakeholder coordination, and digital construction workflow systems across retail fit-out and multidisciplinary projects.
-</p>
-
-<p>
-Extensive coordination involvement across retail, airport operational environments, commercial interiors, procurement support, marine engineering services, and technical delivery workflows. Experience includes support coordination for international retail brands such as Forever 21, Cotton On, and Typo.
-</p>
-
-<p>
-Previous operational experience also includes Rolls-Royce MTU Marine warranty coordination, maintenance support services, logistics coordination, technical documentation, and aftersales operational support for marine engines, spare parts, and service operations.
-</p>
-
-</div>
-
+    <p>
+      Previous operational experience includes Rolls-Royce MTU Marine warranty coordination, maintenance support services, logistics coordination, technical documentation, and aftersales operational support for marine engines, spare parts, and service operations.
+    </p>
+  </div>
 </section>
 
 <section>
+  <h2 class="section-title">Digital Construction Platform</h2>
 
-<h2 class="section-title">Digital Construction Platform</h2>
-
-<div class="card">
-
-<p>
-Digital construction coordination and operational monitoring platform developed for project delivery workflows, procurement control, approvals, technical submissions, scheduling, reporting, QA/QC monitoring, and multidisciplinary construction coordination.
-</p>
-
-</div>
-
+  <div class="card">
+    <p>
+      Digital construction coordination and operational monitoring platform developed for project delivery workflows, procurement control, approvals, technical submissions, scheduling, reporting, QA/QC monitoring, and multidisciplinary construction coordination.
+    </p>
+  </div>
 </section>
 
 <section>
+  <h2 class="section-title">Platform Showcase</h2>
 
-<h2 class="section-title">Executive Operations Dashboard</h2>
+  <div class="grid-2">
 
-<img src="dashboard1.jpg" class="screenshot">
+    <div class="showcase-card">
+      <h3>Executive Operations Dashboard</h3>
+      <img src="dashboard1.jpg" class="screenshot">
+    </div>
 
+    <div class="showcase-card">
+      <h3>Document Control & Technical Submittals</h3>
+      <img src="documentcontrol.jpg" class="screenshot">
+    </div>
+
+    <div class="showcase-card">
+      <h3>Procurement & Commercial Tracking</h3>
+      <img src="commercial.jpg" class="screenshot">
+    </div>
+
+    <div class="showcase-card">
+      <h3>Project Schedule Monitoring</h3>
+      <img src="schedule.jpg" class="screenshot">
+    </div>
+
+  </div>
 </section>
 
 <section>
+  <div class="grid-2">
 
-<h2 class="section-title">Document Control & Technical Submittals</h2>
+    <div>
+      <h2 class="section-title">Core Expertise</h2>
+      <div class="skills">
+        <div class="skill">Project Delivery</div>
+        <div class="skill">Construction Coordination</div>
+        <div class="skill">Retail Fit-Out</div>
+        <div class="skill">Authority Approvals</div>
+        <div class="skill">Procurement</div>
+        <div class="skill">Commercial Tracking</div>
+        <div class="skill">Document Control</div>
+        <div class="skill">QA/QC</div>
+        <div class="skill">Stakeholder Coordination</div>
+        <div class="skill">Airport Coordination</div>
+        <div class="skill">Marine Operations Support</div>
+        <div class="skill">Digital Workflow Systems</div>
+      </div>
+    </div>
 
-<img src="documentcontrol.jpg" class="screenshot">
+    <div>
+      <h2 class="section-title">Software & Tools</h2>
+      <div class="skills">
+        <div class="skill">Base44</div>
+        <div class="skill">MS Project</div>
+        <div class="skill">AutoCAD</div>
+        <div class="skill">Power BI</div>
+        <div class="skill">Excel</div>
+        <div class="skill">SketchUp</div>
+        <div class="skill">D5 Render</div>
+        <div class="skill">GitHub</div>
+        <div class="skill">Google Workspace</div>
+        <div class="skill">Notion</div>
+        <div class="skill">ClickUp</div>
+        <div class="skill">Asana</div>
+        <div class="skill">Trello</div>
+      </div>
+    </div>
 
+  </div>
 </section>
 
 <section>
+  <div class="grid-2">
 
-<h2 class="section-title">Procurement & Commercial Tracking</h2>
+    <div>
+      <h2 class="section-title">Resume & Links</h2>
+      <div class="buttons">
+        <a href="Regina_Villona_CV.pdf" class="btn1" target="_blank">Download Resume</a>
+        <a href="PUT_YOUR_LINKEDIN_LINK_HERE" class="btn2" target="_blank">LinkedIn Profile</a>
+      </div>
+    </div>
 
-<img src="commercial.jpg" class="screenshot">
+    <div>
+      <h2 class="section-title">Contact Information</h2>
+      <div class="card">
+        <p>📧 villonaregina@gmail.com</p>
+        <p>📍 Dubai, United Arab Emirates</p>
+        <p>Available for Remote, Freelance & Project-Based Opportunities</p>
+      </div>
+    </div>
 
-</section>
-
-<section>
-
-<h2 class="section-title">Project Schedule Monitoring</h2>
-
-<img src="schedule.jpg" class="screenshot">
-
-</section>
-
-<section>
-
-<h2 class="section-title">Polished Screenshot Showcase</h2>
-
-<div class="card">
-
-<p>
-The platform screenshots are presented as a visual walkthrough of the Project Center workflow, covering executive monitoring, technical documentation, procurement coordination, commercial tracking, and schedule control.
-</p>
-
-<p class="note">
-Recommended screenshot standard: wide landscape format, clean dashboard view, minimal browser frame, cropped empty spaces, readable panels, and consistent dark SaaS-style presentation.
-</p>
-
-</div>
-
-</section>
-
-<section>
-
-<h2 class="section-title">Custom Domain Plan</h2>
-
-<div class="card">
-
-<p>
-The current website is hosted through GitHub Pages and can later be connected to a custom professional domain for stronger branding.
-</p>
-
-<p>
-Recommended future domain options include projectcenter.ae, projectcenterpro.com, or projectcentercoordination.com.
-</p>
-
-<p class="note">
-A custom domain is optional for now. The GitHub Pages website is already suitable for portfolio, freelance, and remote work applications.
-</p>
-
-</div>
-
-</section>
-
-<section>
-
-<h2 class="section-title">Core Expertise</h2>
-
-<div class="skills">
-
-<div class="skill">Project Delivery</div>
-<div class="skill">Construction Coordination</div>
-<div class="skill">Retail Fit-Out</div>
-<div class="skill">Authority Approvals</div>
-<div class="skill">Procurement</div>
-<div class="skill">Commercial Tracking</div>
-<div class="skill">Document Control</div>
-<div class="skill">QA/QC</div>
-<div class="skill">Stakeholder Coordination</div>
-<div class="skill">Technical Documentation</div>
-<div class="skill">Airport Coordination</div>
-<div class="skill">Marine Operations Support</div>
-<div class="skill">Design Coordination</div>
-<div class="skill">Digital Workflow Systems</div>
-
-</div>
-
-</section>
-
-<section>
-
-<h2 class="section-title">Software & Tools</h2>
-
-<div class="skills">
-
-<div class="skill">Base44</div>
-<div class="skill">MS Project</div>
-<div class="skill">AutoCAD</div>
-<div class="skill">Power BI</div>
-<div class="skill">Excel</div>
-<div class="skill">SketchUp</div>
-<div class="skill">D5 Render</div>
-<div class="skill">GitHub</div>
-<div class="skill">Google Workspace</div>
-<div class="skill">Notion</div>
-<div class="skill">ClickUp</div>
-<div class="skill">Asana</div>
-<div class="skill">Trello</div>
-
-</div>
-
-</section>
-
-<section>
-
-<h2 class="section-title">Resume & Links</h2>
-
-<div class="buttons">
-
-<a href="Regina_Villona_CV.pdf" class="btn1" target="_blank">
-Download Resume
-</a>
-
-<a href="PUT_YOUR_LINKEDIN_LINK_HERE" class="btn2" target="_blank">
-LinkedIn Profile
-</a>
-
-</div>
-
-</section>
-
-<section>
-
-<h2 class="section-title">Contact Information</h2>
-
-<div class="card contact">
-
-<p>📧 villonaregina@gmail.com</p>
-
-<p>📍 Dubai, United Arab Emirates</p>
-
-<p>
-Available for Remote, Freelance & Project-Based Opportunities
-</p>
-
-</div>
-
+  </div>
 </section>
 
 <footer>
-
-© 2026 Regina Villona | Project Center • Construction Coordination • Digital Operations
-
+  © 2026 Regina Villona | Project Center • Construction Coordination • Digital Operations
 </footer>
 
 </div>
 
 </body>
 </html>
+```
