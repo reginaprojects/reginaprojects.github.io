@@ -1,4 +1,7 @@
-```md
+
+Paste only this:
+
+:::writing{variant="document" id="73918"}
 # 👷 REGINA VILLONA  
 ### Project Delivery Consultant | Construction Coordination Specialist
 
@@ -14,7 +17,7 @@ Experienced construction professional specializing in project delivery coordinat
 
 ---
 
-# 🌐 DIGITAL CONSTRUCTION PLATFORM
+## 🌐 DIGITAL CONSTRUCTION PLATFORM
 
 🔗 [Open Project Center Platform](PUT_YOUR_BASE44_LINK_HERE)
 
@@ -22,7 +25,7 @@ Experienced construction professional specializing in project delivery coordinat
 
 ---
 
-# 📊 EXECUTIVE OPERATIONS DASHBOARD
+## 📊 EXECUTIVE OPERATIONS DASHBOARD
 
 <p align="center">
   <img src="dashboard1.jpg" width="72%">
@@ -32,7 +35,7 @@ Centralized dashboard for monitoring project progress, RFIs, approvals, procurem
 
 ---
 
-# 📁 DOCUMENT CONTROL & TECHNICAL SUBMITTALS
+## 📁 DOCUMENT CONTROL & TECHNICAL SUBMITTALS
 
 <p align="center">
   <img src="documentcontrol.jpg" width="72%">
@@ -42,7 +45,7 @@ Technical coordination module for drawings, RFIs, submittals, approvals, documen
 
 ---
 
-# 🛒 PROCUREMENT & COMMERCIAL TRACKING
+## 🛒 PROCUREMENT & COMMERCIAL TRACKING
 
 <p align="center">
   <img src="commercial.jpg" width="72%">
@@ -52,41 +55,28 @@ Commercial tracking system for LPOs, quotations, invoices, supplier coordination
 
 ---
 
-# 🛠️ CORE EXPERTISE
+## 🛠️ CORE EXPERTISE
 
-`Project Delivery`
-`Construction Coordination`
-`Retail Fit-Out`
-`Authority Approvals`
-`Procurement`
-`QA/QC`
-`Technical Documentation`
-`Project Controls`
-`Stakeholder Coordination`
-`Commercial Tracking`
+`Project Delivery` `Construction Coordination` `Retail Fit-Out` `Authority Approvals` `Procurement` `QA/QC` `Technical Documentation` `Project Controls` `Stakeholder Coordination` `Commercial Tracking`
 
 ---
 
-# 💻 SOFTWARE & TOOLS
+## 💻 SOFTWARE & TOOLS
 
-`Base44` `MS Project` `AutoCAD` `Power BI`
-`Excel` `SketchUp` `D5 Render`
-`GitHub` `Google Workspace`
+`Base44` `MS Project` `AutoCAD` `Power BI` `Excel` `SketchUp` `D5 Render` `GitHub` `Google Workspace`
 
 ---
 
-# 📄 CURRICULUM VITAE
+## 📄 CURRICULUM VITAE
 
-📥 [Download Resume](./Regina_Villona_CV.pdf)
+📥 [Download Resume](Regina_Villona_CV.pdf)
 
 ---
 
-# 📞 CONTACT INFORMATION
+## 📞 CONTACT INFORMATION
 
-📧 villonaregina@gmail.com
-
-📍 United Arab Emirates
-
+📧 villonaregina@gmail.com  
+📍 United Arab Emirates  
 💼 Available for Remote, Freelance & Project-Based Opportunities
 
 ---
@@ -94,4 +84,6 @@ Commercial tracking system for LPOs, quotations, invoices, supplier coordination
 <p align="center">
   <b>Construction Coordination • Project Delivery • Digital Construction Operations</b>
 </p>
-```
+:::
+
+Paste it directly in `README.md`, then click **Commit changes**.
