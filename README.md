@@ -3,6 +3,10 @@
 ### Project Delivery Consultant | Construction Coordination Specialist
 
 <p align="center">
+  Construction Project Delivery • Digital Coordination Systems • Technical Operations
+</p>
+
+<p align="center">
   <img src="banner.png" width="100%">
 </p>
 
