@@ -100,7 +100,7 @@ Focused on delivering organized construction coordination systems through techni
 
 ## 💻 Software & Tools
 
-`Base44` `MS Project` `AutoCAD` `Excel` `SketchUp` `D5 Render` `GitHub` `Google Workspace` `Google Workspace` `Notion` `ClickUp` `Trello` `Asana`
+`Base44` `MS Project` `AutoCAD` `Excel` `SketchUp` `D5 Render` `GitHub` `Google Workspace` `Notion` `ClickUp` `Trello` `Asana`
 
 ---
 
