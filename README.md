@@ -1,5 +1,4 @@
 
-:::writing{variant="document" id="73918"}
 # 👷 REGINA VILLONA  
 ### Project Delivery Consultant | Construction Coordination Specialist
 
@@ -82,6 +81,6 @@ Commercial tracking system for LPOs, quotations, invoices, supplier coordination
 <p align="center">
   <b>Construction Coordination • Project Delivery • Digital Construction Operations</b>
 </p>
-:::
+
 
 
