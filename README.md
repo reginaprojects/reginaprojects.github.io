@@ -33,8 +33,6 @@ Integrated construction coordination platform developed for managing procurement
 
 🔗 [Open Project Center Platform](PUT_YOUR_BASE44_LINK_HERE)
 
-▶️ [Watch Platform Demonstration](PUT_YOUR_VIDEO_LINK_HERE)
-
 ---
 
 ## ⚙️ Platform Capabilities
