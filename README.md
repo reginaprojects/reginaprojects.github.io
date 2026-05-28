@@ -66,7 +66,7 @@ Centralized dashboard for monitoring project progress, RFIs, procurement activit
   <img src="documentcontrol.jpg" width="74%">
 </p>
 
-Technical coordination module for drawings, RFIs, submittals, approvals, document registers, and technical review workflows.
+Technical coordination module for drawings, RFIs, submittals, approvals, document registers, HR, Administration, and technical review workflows.
 
 ---
 
@@ -76,7 +76,7 @@ Technical coordination module for drawings, RFIs, submittals, approvals, documen
   <img src="commercial.jpg" width="74%">
 </p>
 
-Commercial tracking system for LPOs, quotations, invoices, supplier coordination, payment monitoring, and procurement documentation.
+Commercial tracking system for LPOs, quotations, invoices, supplier coordination, payment monitoring, cost control, finance forecase, and procurement documentation.
 
 ---
 
@@ -101,7 +101,7 @@ Focused on delivering organized construction coordination systems through techni
 
 ## 💻 Software & Tools
 
-`Base44` `MS Project` `AutoCAD` `Power BI` `Excel` `SketchUp` `D5 Render` `GitHub` `Google Workspace`
+`Base44` `MS Project` `AutoCAD` `Excel` `SketchUp` `D5 Render` `GitHub` `Google Workspace`
 
 ---
 
