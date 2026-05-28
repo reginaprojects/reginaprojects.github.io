@@ -90,10 +90,7 @@ Focused on delivering organized construction coordination systems through techni
 
 `Construction Project Management``Retail Fit-Out` `Commercial Offices` `F&B Projects` `Interior Renovation` `Authority Compliance` `Construction Coordination` `Airport Projects` `Airport Facility Management` `Marine Aftersales Operational Support` `Warranty Management``Facility & Maintenance Operations Support` `International Retail Brand Coordination` `Design Interface Coordination`
 
-
 ---
-
-## 🛠️ Core Expertise
 
 ## 🛠️ Core Expertise
 
