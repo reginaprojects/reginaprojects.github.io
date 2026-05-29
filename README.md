@@ -114,7 +114,7 @@ Focused on delivering organized construction coordination systems through techni
 
 ## 📄 Curriculum Vitae
 
-📥 [Download Resume](Regina_Villona_Resume.pdf)
+📥 [Download Resume](CV_REGINA_VILLONA.pdf)
 
 ---
 
