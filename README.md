@@ -1,4 +1,4 @@
-<h1 align="center">👷 REGINA VILLONA</h1>
+<h1 align="center">👷 GINA VILLONA</h1>
 
 <h3 align="center">
 Project Delivery Consultant | Construction Coordination Specialist
