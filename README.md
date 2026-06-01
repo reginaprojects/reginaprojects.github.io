@@ -1,20 +1,28 @@
-<h1 align="center">👷 GINA VILLONA</h1>
+<table width="100%">
+<tr>
+<td width="230" align="left">
+  <img src="Profile.jpeg" width="220" style="border-radius:50%;">
+</td>
 
-<h3 align="center">
-Project Delivery Consultant | Construction Coordination Specialist
-</h3>
+<td align="left">
 
-<p align="center">
-  <img src="Profile.jpeg" width="110">
-</p>
+# Hi there 👋, I'm Gina Villona
 
-<p align="center">
-Construction Project Delivery • Digital Coordination Systems • Technical Operations
-</p>
+### Project Delivery Consultant | Construction Coordination Specialist
+
+💼 Construction Project Delivery • Digital Coordination Systems • Technical Operations  
+🌍 Open to remote, freelance and project-based opportunities worldwide  
+💡 Focused on project coordination, document control, approvals, procurement tracking and close-out  
+📩 Reach me at: villonaregina@gmail.com
+
+</td>
+</tr>
+</table>
 
 <p align="center">
   <img src="banner.png" width="100%">
 </p>
+
 ---
 
 ## 🚀 Professional Overview
